@@ -3,3 +3,4 @@
 点击下面链接开始玩：
 http://llrsnake.github.io/jandan2048.
 
+gh-pages
