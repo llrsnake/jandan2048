@@ -77,8 +77,8 @@ case 512:   inner.textContent = "丸总";  break;
 case 1024:  inner.textContent = "女王喵";  break;
 case 2048:  inner.textContent = "傲娇柳妹";  break;
 case 4096:  inner.textContent = "娇羞柳妹";  break;
-case 8192:  inner.textContent = "总裁柳妹";  break;
-case 16384:  inner.textContent = "健身柳妹";  break;
+case 8192:  inner.textContent = "健身柳妹";  break;
+case 16384:  inner.textContent = "总裁柳妹";  break;
 case 32768:  inner.textContent = "老沈";  break;
 default:  inner.textContent = "error";
 }
