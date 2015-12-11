@@ -396,35 +396,39 @@ hr {
     color: #f9f6f2;
     background: #edc22e;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-	font-size: 25px;}
+	font-size: 25px;
+	word-wrap: break-word;}
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
-        font-size: 10px; } }
+        font-size: 15px; } }
   .tile.tile-4096 .tile-inner {/*娇羞柳妹*/
     color: #f9f6f2;
     background: #edc22e;
 	font-size: 25px;
+	word-wrap: break-word;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);}
 	@media screen and (max-width: 520px) {
       .tile.tile-4096 .tile-inner {
-        font-size: 10px; } }
+        font-size: 15px; } }
   .tile.tile-8192 .tile-inner {/*健身柳妹*/
     color: #f9f6f2;
     background: #edc22e;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-	font-size: 25px;}
+	font-size: 25px;
+	word-wrap: break-word;}
 	@media screen and (max-width: 520px) {
       .tile.tile-8192 .tile-inner {
-        font-size: 10px; } }
+        font-size: 15px; } }
   .tile.tile-16384 .tile-inner {/*总裁柳妹*/
     color: #f9f6f2;
     background: #edc22e;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
 	font-size: 25px;
+	word-wrap: break-word;
 	}
 	@media screen and (max-width: 520px) {
       .tile.tile-16384 .tile-inner {
-        font-size: 10px; } }
+        font-size: 15px; } }
   .tile.tile-32768 .tile-inner {/*科脱听友*/
     color: #f9f6f2;
     background: #edc22e;
