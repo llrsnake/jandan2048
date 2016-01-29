@@ -145,7 +145,7 @@ HTMLActuator.prototype.updateBestScore = function (bestScore) {
 
 HTMLActuator.prototype.message = function (won) {
   var type    = won ? "game-won" : "game-over";
-  var message = won ? "恭喜你!<br>成功攻略了柳妹:)" : "煎蛋观光团";
+  var message = won ? "恭喜你!\r\n成功攻略了柳妹:)" : "煎蛋观光团";
 
   this.messageContainer.classList.add(type);
   this.messageContainer.getElementsByTagName("p")[0].textContent = message;
